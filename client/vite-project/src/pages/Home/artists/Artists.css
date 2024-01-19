@@ -1,0 +1,99 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;800&display=swap');
+.artistC{
+  margin-left: 35%;
+  margin-top: 30%;
+}
+.titleOurArtists{
+  color: #9e4c79;
+  font-size:6vh;
+  margin-bottom: 16%;
+  margin-top: -25%;
+  margin-left: 15%;
+  width: max-content;
+  display: inline-block;
+  text-align: center;
+  height: 10%;
+  text-decoration: none;
+  white-space: nowrap;
+
+  
+}
+.htht{
+  width: 2rem;
+ 
+}
+.order{
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  
+}
+.imgA{
+  height: 45vh;
+  width: 26vw;
+  margin-top: -17%;
+  border-radius: 2vh;
+  margin-right: 2vw;
+}
+.line11{
+  display: flex;
+  justify-content: center;
+  margin-top: -13%;
+  margin-left: -50%;
+  
+  
+}
+
+.scrollButtons{
+  margin-left: 23%;
+}
+.scrollButton{
+border-radius: 2vh;
+width: 5vw;
+height: 4vw;
+padding: 0.2em;
+cursor: pointer;
+border: none;
+color: aliceblue;
+background-color: #9e4c79;
+font-weight: 800;
+font-size: 5vh;
+margin-right: 2vw;
+margin-top: 3vh;
+
+margin-bottom: 3vh;
+text-align: center;
+}
+.imgA:hover{
+  opacity: 0.7;
+}
+.artistName{
+  font-weight: bold;
+  color: #642e58;
+  font-size: 2rem;
+  font-family: Raleway, sans-serif;
+  text-align: center;
+  
+}
+ .viewMore{
+border-radius: 5px;
+width: 80px;
+height: 50px;
+
+border: none;
+cursor: pointer;
+background-color: #642e58;
+font-weight: 800;
+margin-top: 20px;
+margin-left: 47%;
+margin-bottom: 15px;
+
+}
+.viewMore.active {
+color: #642e58;
+;
+} 
+.artistC{
+  margin-left: 25%;
+}

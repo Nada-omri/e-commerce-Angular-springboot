@@ -1,0 +1,79 @@
+
+.axax{
+    margin-top: 9%;
+  background-color: #9e4c79;
+  height: 35vh;
+  margin-bottom: 4%;
+  width: 100%;
+  gap:20%;
+}
+.displayingxx{
+    margin-top: 1%;
+    display: flex;
+    flex-direction: column;
+
+}
+.display{
+    display: flex;
+    margin-left: 13%;
+}
+.contain1{
+    margin-top: 5%;
+    margin-left: 28%;
+    height: 5vh;
+ 
+ 
+}
+.h{
+    color: black;
+    text-align: center;
+    margin-left: 9%;
+}
+.aa{
+    margin-left: 22%;
+    height: 9%;
+}
+.picxx1{
+    height: 8vh;
+    margin-top: 0.5%;
+    width: 8vh;
+    padding-left: 7%;
+    margin-right: 36%;
+}
+.regi{
+    height:6vh;
+    width: max-content;
+    margin-top: 14%;
+    margin-left: -16%;
+    border-color:aliceblue ;
+    border-radius: 1rem;
+    color: #9e4c79;
+    font-weight: bold;
+    font-size: 2rem;
+
+}
+
+.bvbv{
+    background-color: white;
+    border-color:white;
+    margin-left: 40%;
+    width: 20%;
+    border-radius: 1rem;
+   padding-top: -30%;
+}
+#message{
+    margin-top: 4%;
+}
+#email{
+    padding-top: 4%;
+    width: 20vw;
+    height: 4vh;
+}
+.fcfc{
+    text-align: center;
+
+    font-size: 5rem;
+    font-style: italic;
+    font-weight: 200;
+    margin-left: 12%;
+}

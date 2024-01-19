@@ -1,0 +1,24 @@
+.gap__actions{
+    display: grid;
+    row-gap: 10px;
+    cursor: pointer;
+    }
+#interface{
+    height: 80vh;
+}
+.xxx{
+        font-size: 4rem;
+        font-weight: 900;
+         text-align: center;
+         color: hsl(317, 63%, 32%);
+         width: max-content;
+         font-family: Raleway, sans-serif;
+         margin-left: 35%;
+         margin-top: 1%;
+         margin-bottom: -25%;
+}
+.table{
+    margin-top: -55%;
+    margin-left: 45%;
+
+}

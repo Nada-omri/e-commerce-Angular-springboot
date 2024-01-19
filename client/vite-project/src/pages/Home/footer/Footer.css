@@ -1,0 +1,43 @@
+
+
+li{
+    list-style: none;
+    font-size: 1.35rem;
+    color: #ffff;
+  }
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+h2{
+    text-align: center;
+    color: aliceblue;
+  }
+.container1{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.titxx{
+    color:aliceblue;
+  font-weight: bolder;
+  font-size: 1em;
+
+}
+li:hover {
+    color: #853b75;
+    text-decoration: underline;
+  }
+  #im:hover{
+    background-color: #853b75;
+  }
+  h2:hover{
+    color: #853b75;
+  }
+  hr{
+    color: aliceblue;
+   height: 0.1rem;
+   background-color: aliceblue;
+   border-color: aliceblue;
+  }

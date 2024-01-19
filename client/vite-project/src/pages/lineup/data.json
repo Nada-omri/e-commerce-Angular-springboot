@@ -1,0 +1,44 @@
+[{
+    "id":1,
+    "name":"David Guetta",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/David_Guetta_live_%40_MTV_EMA_2018.png/220px-David_Guetta_live_%40_MTV_EMA_2018.png"
+},
+{
+    "id":2,
+    "name":"Martin Garrix",
+    "image":"https://edm.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTUyOTYxMzkzOTcxMTc3MDgw/martin-garrix.jpg"
+},
+{
+    "id":3,
+    "name":"Armin van Buuren",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/3/30/Armin_Van_Buuren_2.jpg"
+},
+{
+    "id":4,
+    "name":"Tiësto",
+   "image":"https://edm.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgzNTczMTg1MjMxMzk4MzA2/tiesto-821-2.jpg"
+},
+{
+    "id":5,
+    "name":"Dimitri Vegas & Like Mike",
+    "image":"https://p16.resso.me/img/tos-alisg-i-0000/bee3afe038774bcf9d3fadfe2dd9a09d~c5_750x750.jpg"},
+{
+    "id":6,
+    "name":"Amber_Broos ",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amber_broos-1630433763.jpg/266px-Amber_broos-1630433763.jpg"
+},
+{
+    "id":7,
+    "name":"Afrojack",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxeoF6wYHgsjMIPoPqw-Sjp3LrbiW5HysvRdHBi2rKXGEeenEcbTj1qGeAyarluUVdvMg&usqp=CAU"
+},
+{
+    "id":8,
+    "name":"Steve Aoki",
+    "image":"https://s.yimg.com/ny/api/res/1.2/cCrjItaH0nmWv0yIxg4sIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/en/coindesk_75/b1dc09144bae09053b4e686ca9fb8e7b"
+},
+{
+    "id":9,
+    "name":"Hardwell",
+   "image":"https://www.youredm.com/wp-content/uploads/2016/03/HardwellColumbusEDM-26.jpg"}
+]

@@ -1,0 +1,26 @@
+@keyframes slideDown1 {
+    from{
+        transform:translateX(30rem);
+        opacity:0;
+    }
+    to{
+        transform: translateX(0rem);
+        opacity:1;
+  
+    }
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;800&display=swap');
+  .promotions{
+    background-color:#571f4b;
+    opacity: 0.4;
+    height: 12vh;
+  
+  }
+  .anim{
+    animation: slideDown1 8s;
+    color: aliceblue;
+    font-size: 2.5rem;
+  }
+  .msg{
+    font-family: Raleway, sans-serif;
+  }
